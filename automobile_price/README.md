@@ -44,7 +44,8 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-This dataset is available on [kaggle](https://www.kaggle.com/toramky/automobile-dataset)
+This dataset is available on [kaggle.](https://www.kaggle.com/toramky/automobile-dataset)
+
 The dataset 205 entries with following 18 features.
 
 **Features**
