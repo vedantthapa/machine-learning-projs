@@ -59,11 +59,11 @@ The dataset 205 entries with following 18 features.
 8. `width` : Indicates width of the automobile and ranges from 60.3 to 72.3
 9. `height` : Indicates the hieght of the automobile and ranges 47.8 to 59.8
 10. `horsepower` : Maximum horsepower the automobile engine can output and ranges from 48 to 288.
-11. `peak-rpm` : RPM is a way to measure how many times per minute components in the engine rotate. It ranges from 4150 to 6600
-12. `highway-mpg` : Indicates the miles per galon typically consumed at highways. It is continuous from 4150 to 6600
-13. `city-mpg` : Indicates the miles per galon typically consumed at cities. It is continuous from 13 to 49
+11. `peak-rpm` : RPM is a way to measure how many times per minute components in the engine rotate. It ranges from 4150 to 6600.
+12. `highway-mpg` : Indicates the miles per galon typically consumed at highways. It is continuous from 4150 to 6600.
+13. `city-mpg` : Indicates the miles per galon typically consumed at cities. It is continuous from 13 to 49.
 14. `price` : Indicates the price of the automobile and ranges from 5118 to 45400.
-15. `normalized-losses` : It is a continuous variable ranging from 65 to 256
+15. `normalized-losses` : It is a continuous variable ranging from 65 to 256.
 16. `engine-location` : Indicates the location of the engine - front or rear.
 17. `engine-type` : Indicates the type of engine.
 18. `engine-size` : It is continuous from 61 to 326.
