@@ -6,4 +6,4 @@ Problem statement :  Determine the gender of shopper from eCommerce data
 
 https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon
 
-## Private Leaderboard score : 0.8737037037 (Rank 73/440)
+## Private Leaderboard score : 0.8737037037 (Rank 73/2436)
